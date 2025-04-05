@@ -1,0 +1,14 @@
+D:\sites-portfolio\c#\DotNetDebugging\bin\Debug\net9.0\DotNetDebugging.exe
+D:\sites-portfolio\c#\DotNetDebugging\bin\Debug\net9.0\DotNetDebugging.deps.json
+D:\sites-portfolio\c#\DotNetDebugging\bin\Debug\net9.0\DotNetDebugging.runtimeconfig.json
+D:\sites-portfolio\c#\DotNetDebugging\bin\Debug\net9.0\DotNetDebugging.dll
+D:\sites-portfolio\c#\DotNetDebugging\bin\Debug\net9.0\DotNetDebugging.pdb
+D:\sites-portfolio\c#\DotNetDebugging\obj\Debug\net9.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+D:\sites-portfolio\c#\DotNetDebugging\obj\Debug\net9.0\DotNetDebugging.AssemblyInfoInputs.cache
+D:\sites-portfolio\c#\DotNetDebugging\obj\Debug\net9.0\DotNetDebugging.AssemblyInfo.cs
+D:\sites-portfolio\c#\DotNetDebugging\obj\Debug\net9.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+D:\sites-portfolio\c#\DotNetDebugging\obj\Debug\net9.0\DotNetDebugging.dll
+D:\sites-portfolio\c#\DotNetDebugging\obj\Debug\net9.0\refint\DotNetDebugging.dll
+D:\sites-portfolio\c#\DotNetDebugging\obj\Debug\net9.0\DotNetDebugging.pdb
+D:\sites-portfolio\c#\DotNetDebugging\obj\Debug\net9.0\DotNetDebugging.genruntimeconfig.cache
+D:\sites-portfolio\c#\DotNetDebugging\obj\Debug\net9.0\ref\DotNetDebugging.dll
