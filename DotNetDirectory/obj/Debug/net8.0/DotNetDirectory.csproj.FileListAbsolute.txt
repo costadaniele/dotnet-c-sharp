@@ -1,0 +1,15 @@
+D:\sites-portfolio\c#\DotNetDirectory\bin\Debug\net8.0\DotNetDirectory.exe
+D:\sites-portfolio\c#\DotNetDirectory\bin\Debug\net8.0\DotNetDirectory.deps.json
+D:\sites-portfolio\c#\DotNetDirectory\bin\Debug\net8.0\DotNetDirectory.runtimeconfig.json
+D:\sites-portfolio\c#\DotNetDirectory\bin\Debug\net8.0\DotNetDirectory.dll
+D:\sites-portfolio\c#\DotNetDirectory\bin\Debug\net8.0\DotNetDirectory.pdb
+D:\sites-portfolio\c#\DotNetDirectory\obj\Debug\net8.0\DotNetDirectory.GeneratedMSBuildEditorConfig.editorconfig
+D:\sites-portfolio\c#\DotNetDirectory\obj\Debug\net8.0\DotNetDirectory.AssemblyInfoInputs.cache
+D:\sites-portfolio\c#\DotNetDirectory\obj\Debug\net8.0\DotNetDirectory.AssemblyInfo.cs
+D:\sites-portfolio\c#\DotNetDirectory\obj\Debug\net8.0\DotNetDirectory.csproj.CoreCompileInputs.cache
+D:\sites-portfolio\c#\DotNetDirectory\obj\Debug\net8.0\DotNetDirectory.sourcelink.json
+D:\sites-portfolio\c#\DotNetDirectory\obj\Debug\net8.0\DotNetDirectory.dll
+D:\sites-portfolio\c#\DotNetDirectory\obj\Debug\net8.0\refint\DotNetDirectory.dll
+D:\sites-portfolio\c#\DotNetDirectory\obj\Debug\net8.0\DotNetDirectory.pdb
+D:\sites-portfolio\c#\DotNetDirectory\obj\Debug\net8.0\DotNetDirectory.genruntimeconfig.cache
+D:\sites-portfolio\c#\DotNetDirectory\obj\Debug\net8.0\ref\DotNetDirectory.dll
